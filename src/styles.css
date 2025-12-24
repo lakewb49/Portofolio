@@ -1,4 +1,3 @@
-/* Global Styles */
 * {
   margin: 0;
   padding: 0;
@@ -26,7 +25,6 @@ button {
   font-family: 'Poppins', sans-serif;
 }
 
-/* Scrollbar Styling */
 ::-webkit-scrollbar {
   width: 10px;
 }
@@ -44,7 +42,6 @@ button {
   background: #764ba2;
 }
 
-/* Firefox */
 * {
   scrollbar-color: #667eea #0f0f1e;
   scrollbar-width: thin;
